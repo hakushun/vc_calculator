@@ -61,6 +61,7 @@
     "vercel": "^21.0.1"
   },
   "dependencies": {
+    "clsx": "^1.1.1",
     "final-form": "^4.20.1",
     "firebase": "^8.2.1",
     "firebase-admin": "^9.4.2",
